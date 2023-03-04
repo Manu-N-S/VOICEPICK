@@ -3,7 +3,11 @@ VoicePick is an  object picking bot that allows users to select an object throug
 
 custom dataset was trained using yoloV5  - https://colab.research.google.com/drive/1TRJVYskLHYw2jTEl0TgvxePu99-khfXT?usp=sharing
 
-!python track.py
+Installation
+pip inttall yolov5
+pip install -r requirements.txt
+git clone
+python track.py
 
 DEMO VIDEO LINK : https://drive.google.com/file/d/1m1d85reZiDp6tiLql8StLtiAC8i_MWe_/view?usp=sharing
 
